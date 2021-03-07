@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elementalmp4&label=Profile%20views&color=0e75b6&style=flat" alt="elementalmp4" /> </p>
 
-- 🔭 I’m currently working on [Barista Gerald](https://github.com/Montori/Barista-Gerald)
+- 🔭 Working on [Barista Gerald](https://github.com/Montori/Barista-Gerald)
 
-- 🌱 I’m currently learning **Java, Python and Node.JS**
+- 🌱 Learning **Java, Python and Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Elementalmp4/](https://github.com/Elementalmp4/)
+- 💻 All of my projects are available [Here](https://github.com/Elementalmp4/)
 
-- 📫 How to reach me **Discord: ElementalMP4#7458**
+- 📫 **Discord: ElementalMP4#7458**
 
 
 <h3 align="left">Languages and Tools:</h3>
