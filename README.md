@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm ElementalMP4</h1>
+<h1 align="center">It's me, ElementalMP4</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elementalmp4&label=Profile%20views&color=0e75b6&style=flat" alt="elementalmp4" /> </p>
 
 - 🔭 Working on [Barista Gerald](https://github.com/Montori/Barista-Gerald)
 
-- 🌱 Learning **Java, Python and Node.JS**
+- 🌱 Learning **Java, Python and JavaScript**
 
 - 💻 All of my projects are available [Here](https://github.com/Elementalmp4/)
 
