@@ -6,7 +6,7 @@
 
 -  Currently learning **Java, Python and JavaScript (and maybe C# too)**
 
-- 📫 **Discord: ElementalMP4#7458**
+- **Discord: ElementalMP4#7458**
 
 
 <h3 align="left">Languages and Tools:</h3>
