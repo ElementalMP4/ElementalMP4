@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elementalmp4&label=Profile%20views&color=0e75b6&style=flat" alt="elementalmp4" /> </p>
 
--  Working on [Barista Gerald](https://github.com/Montori/Barista-Gerald)
+-  Working on [Barista Gerald](https://github.com/Gerald-Development/Barista-Gerald)
 
 -  Currently learning **Java, Python and JavaScript (and maybe C# too)**
 
