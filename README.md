@@ -9,4 +9,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elementalmp4&show_icons=true&locale=en&theme=radical" alt="elementalmp4" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elementalmp4&show_icons=true&locale=en" alt="elementalmp4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elementalmp4&show_icons=true&locale=en&theme=radical" alt="elementalmp4" /></p>
