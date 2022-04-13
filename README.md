@@ -23,4 +23,4 @@ A Barebones Operating System! - [Starling](https://github.com/Elementalmp4/Starl
 
 ## How mega famous I am
 
-<img src="https://komarev.com/ghpvc/?username=elementalmp4&label=Profile%20views&color=0e75b6&style=flat" alt="elementalmp4" />
+<img align="center" src="https://komarev.com/ghpvc/?username=elementalmp4&label=Profile%20views&color=0e75b6&style=flat" alt="elementalmp4" />
