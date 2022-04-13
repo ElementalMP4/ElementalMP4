@@ -19,9 +19,8 @@ A Barebones Operating System! - [Starling](https://github.com/Elementalmp4/Starl
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=elementalmp4&show_icons=true&locale=en&theme=radical" alt="elementalmp4" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elementalmp4&theme=radical" alt="elementalmp4" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elementalmp4&theme=radical" alt="elementalmp4" />  
 
-<br />
 
 ## How mega famous I am
 
