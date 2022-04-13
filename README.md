@@ -15,11 +15,11 @@ A Barebones Operating System! - [Starling](https://github.com/Elementalmp4/Starl
 
 ## Some handy dandy stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elementalmp4&show_icons=true&locale=en&theme=radical" alt="elementalmp4" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elementalmp4&show_icons=true&locale=en&theme=radical" alt="elementalmp4" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=elementalmp4&show_icons=true&locale=en&theme=radical" alt="elementalmp4" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=elementalmp4&show_icons=true&locale=en&theme=radical" alt="elementalmp4" /></p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elementalmp4&theme=radical" alt="elementalmp4" />  
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=elementalmp4&theme=radical" alt="elementalmp4" /></p>
 
 
 ## How mega famous I am
