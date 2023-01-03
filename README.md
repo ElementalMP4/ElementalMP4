@@ -6,6 +6,8 @@
 
 ## Some things I've worked on
 
+🤠 Every Hello World! - [Why did I do this..](https://github.com/ElementalMP4/EveryHelloWorld)
+
 👑 My Discord Bot! - [Barista Gerald](https://github.com/Gerald-Development/Barista-Gerald)
 
 📺 Watch YouTube With Friends! -  [YTParty](https://github.com/Elementalmp4/YouTubeParty/)
